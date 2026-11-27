@@ -14,18 +14,19 @@
  {
   "id": "R1",
   "type": "reel",
-  "target": "2026-11-26T12:00:00-05:00",
+  "target": "2026-11-27T12:00:00-05:00",
   "file": "R1_color_reveal.mp4",
   "title": "Pick your color",
   "text": "Navy, plum or green? Same planner inside every cover. Which one's yours? \ud83d\udc47\n\nThe Intentional Agent 2027, in paperback and hardcover. Link in bio.\n.\n.\n#2027planner #realestateagent #realestateplanner #plannerlove #realtorlife #realtorgift #goalsetting #intentionallyyours",
   "url": "https://raw.githubusercontent.com/intentionally-yours-media/intentionally-yours-media/main/instagram/2026-batch1-extras/R1_color_reveal.mp4",
-  "status": "pending",
-  "media": "video"
+  "status": "scheduled",
+  "media": "video",
+  "buffer_id": "6b08d9cf548b6e180d4c253e"
  },
  {
   "id": "S2",
   "type": "story",
-  "target": "2026-11-27T12:00:00-05:00",
+  "target": "2026-11-27T18:00:00-05:00",
   "file": "S2_quiz.mp4",
   "alt": "Story quiz: How many conversations a day does a $180,000 year take? About 2, about 10 or about 25.",
   "text": "",
